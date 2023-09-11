@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-anny-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-anny-theme)
 
-A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
+A [anny.co](www.anny.co) theme for [Slidev](https://github.com/slidevjs/slidev).
 
 <!--
   Learn more about how to write a theme:
