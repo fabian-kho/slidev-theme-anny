@@ -24,7 +24,13 @@ html.dark {
   #slide-content {
     background-color: var(--bg-dark) !important;
   }
+}
 
+.custom-bg {
+  background-image: var(--anny-slide);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 /* shared */
